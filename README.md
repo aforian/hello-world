@@ -1,2 +1,6 @@
 # hello-world
-my first git
+
+Hi Everyone!
+Here is my first time to use git.
+I like making websites with jQuery.
+Nice to meet you guys.
